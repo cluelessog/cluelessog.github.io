@@ -6,9 +6,9 @@ weight = 1
 rtl = false
 
 title = "Sourabh Kumar"
-#logo = "img/logo.jpg"
-#description = "Playing the online game"
-#copyright = "Copy, _right?_ :thinking_face:"
+# logo = "img/logo.jpg"
+# description = "Playing the online game"
+copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
    name = "Sourabh Kumar"
    image = "img/profile.png"
    headline = "Started Playing the Online game before it gets too late"
-   bio = "A little bit about you"
+  #  bio = "A little bit about you"
    links = [
     #  { email = "mailto:hello@your_domain.com" },
     #  { link = "https://link-to-some-website.com/" },
