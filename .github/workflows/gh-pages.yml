@@ -26,12 +26,11 @@ jobs:
       - name: Build
         # working-directory: ./exampleSite
         # run: hugo --minify --themesDir ../.. --buildDrafts --baseURL https://jpanther.github.io/congo/
-        run: hugo --minify
+        run: hugo --minify --themesDir ./themes/
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.PUB_KEY }}
-          EXTERNAL_REPOSITORY: cluelessog/cluelessog.github.io
           publish_branch: gh-pages
           publish_dir: ./public
