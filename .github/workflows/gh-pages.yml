@@ -31,6 +31,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          github_token: ${{ secrets.PUB_KEY }}
+          deploy_key: ${{ secrets.PUB_KEY }}
           publish_branch: gh-pages
           publish_dir: ./public
