@@ -1,4 +1,9 @@
-themes
-themes/congo
+### keys ###
 deployment
 deployment.pub
+### Node ###
+# Dependency directories
+node_modules/
+
+# Temporary lock file while building
+.hugo_build.lock
