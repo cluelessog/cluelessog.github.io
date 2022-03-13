@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ $Pagepartial := print "partials/home/" .Site.Params.page.layout ".html" }}
+  {{ if templates.Exists $Pagepartial }}
+    {{ partial $Pagepartial . }}
+  {{ else }}
+  {{ end }}
+{{ end }}
