@@ -22,6 +22,9 @@ showScrollToTop = true
   layout = "profile" # valid options: page, profile, custom
   showRecent = false
 
+[page]
+  layout = "page"
+
 [article]
   showDate = true
   showDateUpdated = false
