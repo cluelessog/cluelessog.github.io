@@ -33,7 +33,7 @@ dateFormat = "2 January 2006"
      { github = "https://github.com/cluelessog" },
     #  { gitlab = "https://gitlab.com/username" },
     #  { google = "https://www.google.com/" },
-     { instagram = "https://instagram.com/cluelessog" },
+     { instagram = "https://instagram.com/cluelesssog" },
     #  { keybase = "https://keybase.io/username" },
     #  { kickstarter = "https://www.kickstarter.com/profile/username" },
     #  { lastfm = "https://lastfm.com/user/username" },
@@ -52,7 +52,7 @@ dateFormat = "2 January 2006"
     #  { tiktok = "https://tiktok.com/@username" },
     #  { tumblr = "https://username.tumblr.com" },
      { twitch = "https://twitch.tv/clueless_og" },
-     { twitter = "https://twitter.com/clueless_og" },
+     { twitter = "https://twitter.com/cluelesssOg" },
     #  { whatsapp = "https://wa.me/phone-number" },
      { youtube = "https://www.youtube.com/channel/UC8ajFP6whuAbEUaA0SuxyfA" },
    ]
