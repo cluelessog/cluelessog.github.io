@@ -1,13 +1,9 @@
 ---
 title: Welcome to my personal space on internet
 description: This is my homepage
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
 date: 2022-03-11T15:28:57.816Z
-lastmod: 2022-03-16T16:25:40.316Z
+lastmod: 2022-03-17T14:00:54.367Z
 ---
-I love [tech](https://www.cluelessog.com/tech/) and games and tinker around with [code](https://github.com/cluelessog) in my free time. Throughout the day I experience insights and aha moments which I eventually forget. This website is where I’ll [dump](posts/) it all but in a structured way. Here you’ll find interesting stuff I discover online, thoughts, ideas and stories about my experiences in life.
+I love [tech](/tech) and games and tinker around with [code](https://github.com/cluelessog) in my free time. Throughout the day I experience insights and aha moments which I eventually forget. This website is where I’ll [dump](blog/) it all but in a structured way. Here you’ll find interesting stuff I discover online, thoughts, ideas and stories about my experiences in life.
 
-[Learn more](/about) or connect with me here to get in touch.
+[Learn more](/about) or connect with me [here](https://linkedin.com/in/cluelessog) to get in touch.

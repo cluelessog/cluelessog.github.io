@@ -54,5 +54,5 @@ dateFormat = "2 January 2006"
      { twitch = "https://twitch.tv/clueless_og" },
      { twitter = "https://twitter.com/cluelesssOg" },
     #  { whatsapp = "https://wa.me/phone-number" },
-     { youtube = "https://www.youtube.com/channel/UC8ajFP6whuAbEUaA0SuxyfA" },
+    #  { youtube = "https://www.youtube.com/channel/UC8ajFP6whuAbEUaA0SuxyfA" },
    ]
