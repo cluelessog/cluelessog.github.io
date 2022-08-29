@@ -1,9 +1,7 @@
 ---
 title: Blog Posts
-lastmod: 2022-03-17T14:00:29.168Z
+lastmod: 2022-08-29T15:36:04.038Z
 ---
 {{< lead >}}
 My Dumb Brain Dumps.
 {{< /lead >}}
-
-Articles are being baked. Please come back later
