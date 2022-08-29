@@ -6,7 +6,7 @@ cascade:
   showAuthor: false
   invertPagination: true
 date: 2022-03-11T15:28:57.816Z
-lastmod: 2022-03-13T12:40:23.207Z
+lastmod: 2022-08-29T14:25:16.600Z
 ---
 Good Day **Fellas**, I am **sourabh**
 
@@ -23,7 +23,5 @@ I love games and tinker with [code](https://github.com/cluelessog) from time-to-
 These days I am learning to be a better reader and writer and solve coding problems for kick **(green ticks)**. 
 
 Apart from things mentioned above I love to read. This is a newly found hobby because I was never a reader. I read anything that I find interesting. I am currently reading Sapiens by Yuah noval harari.
-
-I consider Naval Ravikant as my mentor because I have learned a lot from him. Don’t get surprised if you find me quoting him.
 
 Thanks for stopping by. Have a good day. Feel free to [connect](https://linkedin.com/in/cluelessog) with me!!.
