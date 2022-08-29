@@ -24,3 +24,7 @@
    name = "About"
    pageRef = "about"
    weight = 10
+ [[footer]]
+   name = "Topics"
+   pageRef = "topics"
+   weight = 10
