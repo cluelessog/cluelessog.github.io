@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts on Clueless Says</title>
+    <link>https://cluelessog.github.io/blog/</link>
+    <description>Recent content in Blog Posts on Clueless Says</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face: Yes I Own Everything Here</copyright>
+    <lastBuildDate>Thu, 17 Mar 2022 14:00:29 +0000</lastBuildDate><atom:link href="https://cluelessog.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post</title>
+      <link>https://cluelessog.github.io/2022/03/post/</link>
+      <pubDate>Thu, 17 Mar 2022 13:48:12 +0000</pubDate>
+      
+      <guid>https://cluelessog.github.io/2022/03/post/</guid>
+      <description>Hello</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cluelessog.github.io/sitemap.xml
