@@ -1,6 +1,6 @@
 ---
 title: Happiness
-lastmod: 2022-08-29T15:32:15.881Z
+lastmod: 2024-03-16T09:38:40.706Z
 description: ""
 date: 2022-08-29T13:48:12.012Z
 preview: ""
@@ -9,16 +9,16 @@ topics:
   - personal
 ---
 
-After months of procrastination, here comes the first brain dump. **Happiness!!**
+Finally, after putting it off for ages, I'm getting my thoughts down.  **Yay!!**
 
-Growing up this is something I have struggled with. 
+While growing up, figuring out happiness has been tough for me.
 
 {{< lead >}}
-What is Happiness?
+So, What is Happiness?
 {{< /lead >}}
-Happiness is a default state. You are happy when you don’t have anything missing in your life. The desire for external things makes us feel unhappy. I want this and I want that. The farther you are from that desire, the bigger the feeling of discontentment.
+Well, I think happiness is feeling good without needing anything else. It's like when you're content with what you have. Wanting stuff all the time actually makes us unhappy. You know, like always wishing for this or that. The further away we are from getting what we want, the more unhappy we feel.
 
-**Does that mean you shouldn’t have desires at all?**
-<br><br>I would say No. It is okay to have desires as long as you are enjoying the process that helps you in achieving the desired object because most of your time will be spent on the process.
+**But does that mean we shouldn't want anything at all?**
+<br><br>I'd say no. It's totally fine to want things. But the key is to enjoy the journey of trying to get them. Because most of the time, we're working towards our goals.
 
-I have immensely benefited from this perspective. I hope this helps you as well.
+This way of thinking has really helped me out, and I hope it helps you too.
