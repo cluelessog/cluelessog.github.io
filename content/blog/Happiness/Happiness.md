@@ -1,6 +1,6 @@
 ---
 title: Happiness
-lastmod: 2024-03-16T10:02:03.908Z
+lastmod: 2024-03-16T10:09:32.937Z
 description: ""
 date: 2022-08-29T13:48:12.012Z
 preview: ""
@@ -10,7 +10,6 @@ topics:
 ---
 
 Finally, after putting it off for ages, I'm getting my thoughts down.  **Yay!!**
-hello
 While growing up, figuring out happiness has been tough for me.
 
 {{< lead >}}
