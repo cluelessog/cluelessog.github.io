@@ -1,7 +1,7 @@
 {
   "name": "personalwebsite",
   "version": "1.0.0",
-  "description": "",
+  "description": "My personal website",
   "scripts": {
     "start": "hugo server -b http://localhost -p 8000",
     "dev": "NODE_ENV=development ./themes/congo/node_modules/tailwindcss/lib/cli.js -c ./themes/congo/tailwind.config.js -i ./themes/congo/assets/css/main.css -o ./assets/css/compiled/main.css --jit -w",
