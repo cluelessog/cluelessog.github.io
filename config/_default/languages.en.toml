@@ -1,18 +1,13 @@
-languageCode = "en"
-languageName = "English"
-displayName = "EN"
-isoCode = "en"
-weight = 1
-rtl = false
+
 
 title = "Clueless Says"
 # logo = "img/logo.jpg"
 # description = "Playing the online game"
 copyright = "Copy, _right?_ :thinking_face: Yes I Own Everything Here"
 
-dateFormat = "2 January 2006"
 
-[author]
+
+[params.author]
    name = "Sourabh Kumar"
    image = "img/profile.png"
    headline = "Playing The Great Online Game"
@@ -56,3 +51,10 @@ dateFormat = "2 January 2006"
     #  { whatsapp = "https://wa.me/phone-number" },
     #  { youtube = "https://www.youtube.com/channel/UC8ajFP6whuAbEUaA0SuxyfA" },
    ]
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+dateFormat = "2 January 2006"
